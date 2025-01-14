@@ -1,81 +1,78 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int data = 1;
+class GameObject
+{
+#pragma region 접근 지정자
+	/*클래스 내부에 포함되어 있는 속성에 접근 범위를 제한하는 지정자입니다*/
+
+	/*public : 클래스 내부와 자기가 상속하고 있는 클래스 그리고 클래스 외부에서도
+			   접근 범위를 제한하는 지정자입니다*/
+
+	/*protected : 클래스 내부와 자기가 상속하고 있는 클래스까지만 접근을 허용하는
+			   지정자 입니다*/
+
+	/*private : 클래서 내부까지만 접근을 허용하는 지정합니다*/
+#pragma endregion
+private:
+	int x;
+protected:
+	int y;
+public:
+	int z;
+
+	int Z()
+	{
+		return z;
+	}
+};
+
+void Swap(int & x, int & y)
+{
+	int temporary = x;
+	x = y;
+	y = temporary;
+}
 
 int main()
 {
-#pragma region 스트림
-	/*시간의 흐름에 따라 연속적으로 발생하는 데이터의 흐름입니다*/
+#pragma region 클래스
+	/*사용자 정의 클래스를 통해 객체를 생성하여 접근하고 사용하는 집합체 입니다*/
 
-	/* << 삽입연산자)
-	자신이 참조하고 있는 값을 반환하여 출력하는 연산자입니다*/
+	//GameObject gameObject; // [ ] -> Stack
+	//GameObject gameObject0; // [ ] -> Stack
+	//GameObject gameObject1; // [ ] -> Stack
+	//
+	//
+	//gameObject.Z();
+	//
+	//gameObject.z = 5;
+	//gameObject0.z = 10;
+	//gameObject1.z = 20;
+	//
+	//std::cout << "gameObject의 z값 : " << gameObject.Z() << std::endl;
+	//std::cout << "gameObject의 z값 : " << gameObject0.Z() << std::endl;
+	//std::cout << "gameObject의 z값 : " << gameObject1.Z() << std::endl;
 
-	//int errorCode = -9999;
-	
-	//std::cout << "Hello World!" << std::endl;
-	//std::cout << "ERROR!" << std::endl;
-	//std::cout << "Error Code : " << errorCode << std::endl;
 
-	/* >> (추출 연산자)
-	특정한 값을 입력받은 다음 버퍼에 저장하는 연산자 입니다*/
 
-	//int n = 0;
-	
-	//std::cin >> n;
-	
-	//std::cout << "n의 값 : " << n << std::endl;
-
-	
+	/*클래스의 경우 클래스 내부에 있는 변수는 클래스의 메모리 영역에 포함되지만, 정적 변수와 함수의
+	메모리는 클래스 영역에 포함되지 않습니다*/
 #pragma endregion
 
-#pragma region 범위 지정 연산자
-	/*여러 범위에서 사용되는 식별자를 구분하는데 사용하는 연산자입니다*/
-
-	//int data = 10;
+#pragma region 참조자
 	
-	//std::cout << "지역 변수 data의 값 : " << data << std::endl;
-	//std::cout << "전역 변수 data의 값 : " << ::data << std::endl;
+	/*어떤 변수의 메모리 공간에 다른 이름을 지정하는 자정자입니다*/
 
-	/*범위 지정 연산자는 전역 변수와 같은 이름의 지역 변수가
-	선언되었을 때 가장 가까운 범위에 선언된 변수의 이름을 사용하는
-	범위 규칙이 존재하기 때문에 전역 변수가 호출되지 않습니다*/
-#pragma endregion
+	int a = 10;
+	int b = 20;
 
-#pragma region 동적 할당
-	/*프로그램을 실행 중에 필요한 만큼 메모리를 할당하는 작업입니다*/
+	Swap(a, b);
 
-	int* p = new int(99);
-	
-	std::cout << *p << std::endl;
+	std::cout << "a의 값 : " << a << std::endl;
+	std::cout << "b의 값 : " << b << std::endl;
 
-	*p = 100;
-
-	std::cout << *p << std::endl;
-
-	delete p;
-	p = nullptr;
-
-	//======================================================
-	cout << endl;
-
-	p =  new int[3];
-
-	p[0] = 10;
-	p[1] = 20;
-	p[2] = 30;
-
-	cout << "p의 가리키는 주소 : " << p << endl;
-
-	cout << p[0] << endl;
-	cout << p[1] << endl;
-	cout << p[2] << endl;
-
-	delete[] p;
 
 #pragma endregion
-
-
-	return 0;
 }
