@@ -3,16 +3,19 @@
   "WorkspaceRootPath": "D:\\guswn3717\\github\\2025-CPP-Class\\cppgp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0288CB1-301C-4E19-9F39-2E0ABFA18DD5}|..\\Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Vulture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A0288CB1-301C-4E19-9F39-2E0ABFA18DD5}|..\\Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0288CB1-301C-4E19-9F39-2E0ABFA18DD5}|..\\Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Goliath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0288CB1-301C-4E19-9F39-2E0ABFA18DD5}|..\\Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\SiegeTank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A0288CB1-301C-4E19-9F39-2E0ABFA18DD5}|..\\Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Goliath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0288CB1-301C-4E19-9F39-2E0ABFA18DD5}|..\\Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Terran.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A0288CB1-301C-4E19-9F39-2E0ABFA18DD5}|..\\Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\SiegeTank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0288CB1-301C-4E19-9F39-2E0ABFA18DD5}|..\\Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\SiegeTank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0288CB1-301C-4E19-9F39-2E0ABFA18DD5}|..\\Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Vulture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -21,7 +24,7 @@
       "AbsoluteMoniker": "D:0:0:{A0288CB1-301C-4E19-9F39-2E0ABFA18DD5}|..\\Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Terran.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0288CB1-301C-4E19-9F39-2E0ABFA18DD5}|..\\Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A0288CB1-301C-4E19-9F39-2E0ABFA18DD5}|..\\Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Terran.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,8 +34,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 446,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SiegeTank.h",
+              "DocumentMoniker": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\SiegeTank.h",
+              "RelativeDocumentMoniker": "..\\Class07th\\SiegeTank.h",
+              "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\SiegeTank.h",
+              "RelativeToolTip": "..\\Class07th\\SiegeTank.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-21T10:34:11.845Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -43,83 +60,83 @@
               "RelativeToolTip": "..\\Class07th\\Goliath.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-21T10:35:49.528Z",
+              "WhenOpened": "2025-01-22T10:26:35.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SiegeTank.h",
-              "DocumentMoniker": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\SiegeTank.h",
-              "RelativeDocumentMoniker": "..\\Class07th\\SiegeTank.h",
-              "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\SiegeTank.h",
-              "RelativeToolTip": "..\\Class07th\\SiegeTank.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-21T10:34:11.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Vulture.h",
-              "DocumentMoniker": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Vulture.h",
-              "RelativeDocumentMoniker": "..\\Class07th\\Vulture.h",
-              "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Vulture.h",
-              "RelativeToolTip": "..\\Class07th\\Vulture.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-21T10:32:25.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Vulture.cpp",
-              "DocumentMoniker": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Vulture.cpp",
-              "RelativeDocumentMoniker": "..\\Class07th\\Vulture.cpp",
-              "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Vulture.cpp",
-              "RelativeToolTip": "..\\Class07th\\Vulture.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Title": "Goliath.cpp",
+              "DocumentMoniker": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Goliath.cpp",
+              "RelativeDocumentMoniker": "..\\Class07th\\Goliath.cpp",
+              "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Goliath.cpp",
+              "RelativeToolTip": "..\\Class07th\\Goliath.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-21T10:31:56.739Z",
+              "WhenOpened": "2025-01-22T10:12:31.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SiegeTank.cpp",
+              "DocumentMoniker": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\SiegeTank.cpp",
+              "RelativeDocumentMoniker": "..\\Class07th\\SiegeTank.cpp",
+              "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\SiegeTank.cpp",
+              "RelativeToolTip": "..\\Class07th\\SiegeTank.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T10:12:16.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Vulture.cpp",
+              "DocumentMoniker": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Vulture.cpp",
+              "RelativeDocumentMoniker": "..\\Class07th\\Vulture.cpp",
+              "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Vulture.cpp",
+              "RelativeToolTip": "..\\Class07th\\Vulture.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T10:11:12.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Terran.cpp",
               "DocumentMoniker": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Terran.cpp",
               "RelativeDocumentMoniker": "..\\Class07th\\Terran.cpp",
               "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Terran.cpp",
               "RelativeToolTip": "..\\Class07th\\Terran.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-21T10:29:36.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Terran.h",
               "DocumentMoniker": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Terran.h",
               "RelativeDocumentMoniker": "..\\Class07th\\Terran.h",
               "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\Terran.h",
               "RelativeToolTip": "..\\Class07th\\Terran.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-21T10:28:01.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "FileName.cpp",
               "DocumentMoniker": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\FileName.cpp",
               "RelativeDocumentMoniker": "..\\Class07th\\FileName.cpp",
-              "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\FileName.cpp",
-              "RelativeToolTip": "..\\Class07th\\FileName.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class07th\\FileName.cpp*",
+              "RelativeToolTip": "..\\Class07th\\FileName.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-21T10:26:36.986Z",
               "EditorCaption": ""

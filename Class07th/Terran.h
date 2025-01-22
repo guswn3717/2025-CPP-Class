@@ -1,4 +1,8 @@
 #pragma once
+#include <iostream>
+
+using namespace std;
+
 class Terran
 {
 protected:
@@ -7,4 +11,6 @@ protected:
 	int defense;
 public:
 	Terran();
+
+	void Stats();
 };
