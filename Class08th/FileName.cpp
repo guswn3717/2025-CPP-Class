@@ -5,6 +5,15 @@
 
 using namespace std;
 
+void Position(int x, int y)
+{
+    /*기본 매가 변수를 저장하려면 오른쪽에서 부터 값을 지정해주어야 합니다*/
+
+    cout << "x의 값" << x << endl;
+    cout << "y의 값" << y << endl;
+
+}
+
 class Fruit
 {
 public:
