@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\guswn3717\\github\\2025-CPP-Class\\cppgp2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6446811-43E1-48E3-AE76-73DDFDD5DBD5}|..\\Class10th\\Class10th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class10th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{635A540A-A0AA-4300-89FA-819C14E635B3}|..\\Class09th\\Class09th.vcxproj|D:\\guswn3717\\github\\2025-CPP-Class\\Class09th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,11 +22,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\guswn3717\\github\\2025-CPP-Class\\Class10th\\FileName.cpp",
+              "RelativeDocumentMoniker": "..\\Class10th\\FileName.cpp",
+              "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class10th\\FileName.cpp",
+              "RelativeToolTip": "..\\Class10th\\FileName.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T10:17:04.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
               "DocumentMoniker": "D:\\guswn3717\\github\\2025-CPP-Class\\Class09th\\FileName.cpp",
               "RelativeDocumentMoniker": "..\\Class09th\\FileName.cpp",
               "ToolTip": "D:\\guswn3717\\github\\2025-CPP-Class\\Class09th\\FileName.cpp",
               "RelativeToolTip": "..\\Class09th\\FileName.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAYwG4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-27T09:32:08.548Z",
               "EditorCaption": ""

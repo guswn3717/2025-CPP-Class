@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+D:\guswn3717\github\2025-CPP-Class\Class09th\FileName.cpp(31,1): warning C4172: 지역 변수 또는 임시 : vector의 주소를 반환하는 중
+D:\guswn3717\github\2025-CPP-Class\Class09th\FileName.cpp(38,1): warning C4172: 지역 변수 또는 임시 : vector의 주소를 반환하는 중
+D:\guswn3717\github\2025-CPP-Class\Class09th\FileName.cpp(24,1): warning C4172: 지역 변수 또는 임시 : vector의 주소를 반환하는 중
+D:\guswn3717\github\2025-CPP-Class\Class09th\FileName.cpp(45,1): warning C4172: 지역 변수 또는 임시 : vector의 주소를 반환하는 중
+  Class09th.vcxproj -> D:\guswn3717\github\2025-CPP-Class\cppgp2\x64\Debug\Class09th.exe
