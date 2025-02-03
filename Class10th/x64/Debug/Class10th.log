@@ -1,2 +1,3 @@
 ﻿  FileName.cpp
-  Class10th.vcxproj -> D:\guswn3717\github\2025-CPP-Class\cppgp2\x64\Debug\Class10th.exe
+D:\guswn3717\github\2025-CPP-Class\Class10th\FileName.cpp(95,15): error C2015: 상수에 문자가 너무 많습니다.
+D:\guswn3717\github\2025-CPP-Class\Class10th\FileName.cpp(95,24): error C2015: 상수에 문자가 너무 많습니다.
