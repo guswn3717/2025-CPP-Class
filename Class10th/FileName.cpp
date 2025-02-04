@@ -62,6 +62,14 @@ bool Same(T argument, T parameter)
 	return argument == parameter;
 }
 
+template<>
+bool Same(const char* argument, const char* parameter)
+{
+	cout << "Template Specialization" << endl;
+
+	return strlen(argument) == strlen(parameter);
+}
+
 int main()
 {
 #pragma region ÅÛÇÃ¸´
