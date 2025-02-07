@@ -1,36 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class\\cppgp2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BB9A44F5-02E9-4307-84AE-0FA98BFAFB67}|..\\Class13th\\Class13th.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class\\Class13th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 446,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileName.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class\\Class13th\\FileName.cpp",
-              "RelativeDocumentMoniker": "..\\Class13th\\FileName.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class\\Class13th\\FileName.cpp",
-              "RelativeToolTip": "..\\Class13th\\FileName.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T09:43:17.881Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
